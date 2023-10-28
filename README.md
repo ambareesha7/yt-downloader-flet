@@ -1,6 +1,6 @@
-# A fletapp Flet app
+# A flet-app Flet app
 
-An example of a minimal Flet app.
+YouTube downloader built in python and flet
 
 To run the app:
 
